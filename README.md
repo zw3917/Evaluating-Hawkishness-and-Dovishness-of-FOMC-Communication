@@ -1,7 +1,5 @@
 # Assignment 2 - Evaluating Hawkishness and Dovishness of FOMC Communication
 
-### Ziyi Wang (zw3917)
-
 ## 1. Introduction
 
 In this project, we explore the sentiment of the Federal Open Market Committee (FOMC) communications during 2018-2019 and 2024-2025, focusing on Meeting Minutes, Fed speeches, and Press Conference transcripts, with a specific focus on tariff.
